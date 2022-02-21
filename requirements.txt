@@ -1,4 +1,4 @@
-altair==4.2.0; python_version >= "3.7"
+altai   ==4.2.0; python_version >= "3.7"
 appnope==0.1.2; platform_system == "Darwin" and python_version >= "3.8" and sys_platform == "darwin"
 argon2-cffi-bindings==21.2.0; python_version >= "3.7"
 argon2-cffi==21.3.0; python_version >= "3.7"
@@ -101,3 +101,4 @@ watchdog==2.1.6; platform_system != "Darwin" and python_version >= "3.6"
 wcwidth==0.2.5; python_full_version >= "3.6.2" and python_version >= "3.8"
 webencodings==0.5.1; python_version >= "3.7"
 widgetsnbextension==3.5.2; python_version >= "3.7"
+rdkit-pypi==2021.9.4;
